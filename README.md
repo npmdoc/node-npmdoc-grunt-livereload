@@ -1,4 +1,7 @@
-# api documentation for  [grunt-livereload (v0.1.3)](https://github.com/ericclemmons/grunt-livereload)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-livereload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-livereload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-livereload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-livereload)
+# npmdoc-grunt-livereload
+
+#### basic api documentation for  [grunt-livereload (v0.1.3)](https://github.com/ericclemmons/grunt-livereload)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-livereload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-livereload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-livereload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-livereload)
+
 #### Refresh your CSS (or page) with each save via LiveReload.
 
 [![NPM](https://nodei.co/npm/grunt-livereload.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-livereload)
